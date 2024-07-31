@@ -2,6 +2,8 @@
 
 ## What is the Developer Experience SIG?
 
+The goal of this SIG is to improve the experience for developers implementing
+OpenTelemetry within their projects.
 
 ## Get involved
 
