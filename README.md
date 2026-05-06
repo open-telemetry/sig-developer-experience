@@ -14,3 +14,24 @@ There are many ways to get involved:
 
 > [!NOTE]
 > This SIG operates **async** by default, so attending meetings is not mandatory! Feel free to choose your preferred way of communication.
+
+## Roles
+
+Here is a list of community roles with current and previous members:
+
+### Maintainers
+
+These are the members of [@open-telemetry/sig-developer-experience-maintainers][]:
+
+- [Johanna Öjeling](https://github.com/johannaojeling), Grafana Labs
+- [Juliano Costa](https://github.com/julianocosta89), Datadog
+- [Tristan Sloughter](https://github.com/tsloughter), Serve
+
+For more information about the maintainer role, see the
+[community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md).
+
+### Emeritus
+
+- [Damien Mathieu](https://github.com/dmathieu), Maintainer
+- [Ted Young](https://github.com/tedsuo), Maintainer
+- [Liudmila Molkova](https://github.com/lmolkova), Maintainer
