@@ -21,7 +21,7 @@ Here is a list of community roles with current and previous members:
 
 ### Maintainers
 
-These are the members of [@open-telemetry/sig-developer-experience-maintainers][]:
+These are the members of [@open-telemetry/sig-developer-experience-maintainers][https://github.com/orgs/open-telemetry/teams/sig-developer-experience-maintainers]:
 
 - [Johanna Öjeling](https://github.com/johannaojeling), Grafana Labs
 - [Juliano Costa](https://github.com/julianocosta89), Datadog
