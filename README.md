@@ -10,7 +10,7 @@ OpenTelemetry within their projects.
 There are many ways to get involved:
 
 - Get in touch with us on the [CNCF slack](https://slack.cncf.io/) channel [#otel-devex](https://cloud-native.slack.com/archives/C01S42U83B2).
-- [Attend one of our meetings](https://docs.google.com/document/d/1QDZYAvGJbqgodJaTxRPmRZh-fEJjb6XstvPUst6h50w/edit#heading=h.1zpfcitsf3o6).
+- Join our meetings: [NA (Wed 11:00 PT)](https://zoom-lfx.platform.linuxfoundation.org/meeting/92441126370?password=29d107b0-8a13-4d34-a38f-1cf4e9c10370) | [EU (Wed 17:00 UTC+8)](https://zoom-lfx.platform.linuxfoundation.org/meeting/97457282174?password=3c1d07e2-8363-4c78-8622-56c197d9b07b). [Meeting notes](https://docs.google.com/document/d/1QDZYAvGJbqgodJaTxRPmRZh-fEJjb6XstvPUst6h50w/edit).
 
 > [!NOTE]
 > This SIG operates **async** by default, so attending meetings is not mandatory! Feel free to choose your preferred way of communication.
