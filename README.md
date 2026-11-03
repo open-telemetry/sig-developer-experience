@@ -24,7 +24,7 @@ Here is a list of community roles with current and previous members:
 These are the members of [@open-telemetry/sig-developer-experience-maintainers](https://github.com/orgs/open-telemetry/teams/sig-developer-experience-maintainers):
 
 - [Johanna Öjeling](https://github.com/johannaojeling), Independent
-- [Juliano Costa](https://github.com/julianocosta89), Datadog
+- [Juliano Costa](https://github.com/julianocosta89), Dash0
 - [Tristan Sloughter](https://github.com/tsloughter), Serve
 
 For more information about the maintainer role, see the
